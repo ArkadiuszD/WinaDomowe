@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Arkadiusz\documents\visual studio 2013\Projects\WinaDomowe\WinaDomowe\bin\Release\WinaDomowe_1.1.0.0_Bundle\WinaDomowe_1.1.0.0_AnyCPU.appx
+ResourcePack=C:\Users\Arkadiusz\documents\visual studio 2013\Projects\WinaDomowe\WinaDomowe\bin\Release\WinaDomowe_1.1.0.0_Bundle\WinaDomowe_1.1.0.0_scale-140.appx
